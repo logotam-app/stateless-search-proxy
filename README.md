@@ -24,4 +24,4 @@ I'm a solo developer trying to squeeze maximum performance out of the Cloudflare
 - Any advice on handling upstream rate-limiting when the proxy scales?
 
 ---
-Built in Kyiv, Ukraine 🇺🇦. Code is MIT Licensed.
+Built in Kyiv, Ukraine &#x1F1FA;&#x1F1E6;. Code is MIT Licensed.
